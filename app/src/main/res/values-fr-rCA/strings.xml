@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">TicTacToe</string>
+    <!--Main Activity-->
+    <string name="homeTitle">Tic Tac Toe</string>
+    <string name="playBtn">Jouer</string>
+    <!--Player Setup Activity-->
+    <string name="SubmitBtn">Soumettre vos Noms</string>
+    <string name="PlayerSetupTitle">Entrer Vos Noms</string>
+    <string name="Label1">Joueur 1</string>
+    <string name="Label2">Joueur 2</string>
+    <string name="NameHint">Entrer Votre Noms</string>
+    <!--Game Display Activity-->
+    <string name="HomeBtn">Acceuil</string>
+    <string name="PlayAgainBtn">Jouer Encore</string>
+    <string name="leaderboard">Classement</string>
+    <string name="title_activity_leader_board">Classement</string>
+    <string name="startGame">Débuté Une Nouvelle Partie</string>
+    <string name="edit">Édité</string>
+    <string name="PlayerSetup">Configuration Joueur</string>
+    <string name="GetLeaderBoard">Visiter Classement</string>
+    <string name="turn">Va Jouer</string>
+    <string name="won">A Gagné!!!!</string>
+    <string name="tied_game">Égalisé La Partie!!!!</string>
+</resources>

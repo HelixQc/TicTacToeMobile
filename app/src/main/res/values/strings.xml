@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">TicTacToe</string>
+    <!--Main Activity-->
+    <string name="homeTitle">Tic Tac Toe</string>
+    <string name="playBtn">Play</string>
+    <!--Player Setup Activity-->
+    <string name="SubmitBtn">Submit Names</string>
+    <string name="PlayerSetupTitle">Enter Your Names</string>
+    <string name="Label1">Player 1</string>
+    <string name="Label2">Player 2</string>
+    <string name="NameHint">Enter Your Name</string>
+    <!--Game Display Activity-->
+    <string name="HomeBtn">Home</string>
+    <string name="PlayAgainBtn">Play Again</string>
+    <string name="leaderboard">LeaderBoard</string>
+    <string name="title_activity_leader_board">LeaderBoard</string>
+    <string name="startGame">Start a new game</string>
+    <string name="edit">Edit</string>
+    <string name="PlayerSetup">Player Setup</string>
+    <string name="GetLeaderBoard">View the Leaderboard</string>
+    <string name="turn">\'s Turn</string>
+    <string name="won">Won!!!!</string>
+    <string name="tied_game">Tied The Game!!!!</string>
+</resources>
