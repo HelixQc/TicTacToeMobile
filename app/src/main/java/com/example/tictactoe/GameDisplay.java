@@ -40,7 +40,7 @@ public class GameDisplay extends AppCompatActivity {
             return insets;
         });
         setWidget();
-        dbAdapter = new DbAdapter(GameDisplay.this);
+        dbAdapter = new DbAdapter(this);
         ticTacToeBoard.setUpGame(playAgainBtn, homeBtn, playerTurns, playersNames);
         if (playersNames != null) {
             playerTurns.setText(playersNames[0]+ " " +getString(R.string.turn));
