@@ -8,7 +8,6 @@ import androidx.annotation.Nullable;
 
 public class DbHelper extends SQLiteOpenHelper {
 
-
         public static final int  VERSION = 1;
         public static final String BD_NAME = "LeaderBoard";
         public static final String TABLE_PLAYER = "Players";

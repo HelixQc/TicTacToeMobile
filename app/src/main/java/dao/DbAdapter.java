@@ -32,11 +32,10 @@ public class DbAdapter {
     }
 
     public void addWinningPlayer(String p) {
-        String nom = p;
         openDb();
         int win = 1;
         ContentValues cv = new ContentValues();
-        cv.put(DbHelper.COL_NAME, nom);
+        cv.put(DbHelper.COL_NAME, p);
         cv.put(DbHelper.COL_WINS, win);
         db.insert(DbHelper.TABLE_PLAYER, null, cv);
         closeDb();
