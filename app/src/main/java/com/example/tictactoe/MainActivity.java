@@ -4,15 +4,12 @@ import android.content.Intent;
 import android.os.Bundle;
 import android.view.View;
 import android.widget.Button;
-
 import androidx.activity.EdgeToEdge;
 import androidx.appcompat.app.AppCompatActivity;
 import androidx.core.graphics.Insets;
 import androidx.core.view.ViewCompat;
 import androidx.core.view.WindowInsetsCompat;
-
 import java.util.ArrayList;
-import java.util.List;
 
 import Models.Player;
 import dao.DbAdapter;
@@ -48,7 +45,6 @@ public class MainActivity extends AppCompatActivity {
         ArrayList<Player> players = dbAdapter.getAllWinningPlayer();
         ArrayList<String> winners = new ArrayList<>();
         ArrayList<Integer> wins = new ArrayList<>();
-
 
        for(Player p : players){
             String winner = p.getPlayerName();

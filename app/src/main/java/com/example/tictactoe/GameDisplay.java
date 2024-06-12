@@ -43,7 +43,7 @@ public class GameDisplay extends AppCompatActivity {
         dbAdapter = new DbAdapter(GameDisplay.this);
         ticTacToeBoard.setUpGame(playAgainBtn, homeBtn, playerTurns, playersNames);
         if (playersNames != null) {
-            playerTurns.setText(playersNames[0]+" "+getString(R.string.turn));
+            playerTurns.setText(playersNames[0]+ " " +getString(R.string.turn));
         }
 
         playAgainBtn.setVisibility(View.GONE);
