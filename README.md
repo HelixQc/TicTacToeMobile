@@ -8,7 +8,7 @@ Welcome to the **Tic-Tac-Toe Mobile Game**! This is a simple implementation of t
 
 ### **Platform Compatibility**
 
-- **Java-based mobile applications** (Android, for example)
+- **Java-based mobile applications** 
 - Ensure you have **Android Studio** or another Java IDE set up to compile and run the project.
 
 ---
