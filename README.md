@@ -70,10 +70,10 @@ This game was developed as a simple educational project and is **not** optimized
 
 This project is licensed under the **MIT License**. By using, modifying, or distributing the code, you agree to the following terms:
 
-1. 🏷️ **Ownership**: All intellectual property rights, including but not limited to the source code, design, and architecture, are owned by **Your Name**.  
+1. 🏷️ **Ownership**: All intellectual property rights, including but not limited to the source code, design, and architecture, are owned by **Gaby Langis**.  
 2. ❌ **Restrictions**:  
    - You are free to use, copy, modify, and distribute the software for personal, educational, or commercial purposes, as long as the copyright notice is included.  
-   - **Your Name** is not responsible for any issues or damages that arise from the use or misuse of this game.  
+   - **Gaby Langis** is not responsible for any issues or damages that arise from the use or misuse of this game.  
 3. 🔐 **Usage**:  
    - Feel free to use this software for learning or personal projects—just make sure to respect the terms of the license.
 
